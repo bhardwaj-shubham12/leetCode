@@ -27,7 +27,8 @@ public:
                 if(grid2[i][j])
                 {
                     flag = true;
-                    dfs(grid1,grid2,i,j);
+                    // Call DFS Here
+                    //dfs(grid1,grid2,i,j);
                     count += flag;
                 }
             }
