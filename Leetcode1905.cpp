@@ -28,7 +28,7 @@ public:
                 {
                     flag = true;
                     // Call DFS Here
-                    //dfs(grid1,grid2,i,j);
+                    dfs(grid1,grid2,i,j);
                     count += flag;
                 }
             }
