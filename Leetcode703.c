@@ -4,8 +4,8 @@ class KthLargest {
     multiset<int> mset;
 public:
     KthLargest(int k, vector<int>& nums) {
-      /*
-       Write code here
+      
+    
         size = 0;
         K = k;
 
@@ -21,7 +21,7 @@ public:
             }
         }
     }
-    */
+    
     int add(int val) {
         mset.insert(-1 * val);
         size++;
