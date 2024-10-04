@@ -1,5 +1,6 @@
 class Solution {
     bool flag = true;
+int a =7;
     int n,m;
     void dfs(vector<vector<int>>& grid1, vector<vector<int>>& grid2,int row,int col)
     {
