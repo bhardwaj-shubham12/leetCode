@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Array
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0056-merge-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
