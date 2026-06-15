@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0435-non-overlapping-intervals) |
 ## Linked List
 |  |
 | ------- |
@@ -47,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0435-non-overlapping-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
