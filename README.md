@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1732-find-the-highest-altitude](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1840-maximum-building-height) |
 | [2402-meeting-rooms-iii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2402-meeting-rooms-iii) |
 ## Sorting
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0435-non-overlapping-intervals) |
+| [1833-maximum-ice-cream-bars](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1840-maximum-building-height) |
 | [2402-meeting-rooms-iii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2402-meeting-rooms-iii) |
 ## Linked List
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0435-non-overlapping-intervals) |
+| [1833-maximum-ice-cream-bars](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0128-longest-consecutive-sequence) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
