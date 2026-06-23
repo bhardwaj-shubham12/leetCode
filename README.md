@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0435-non-overlapping-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0435-non-overlapping-intervals) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0525-contiguous-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0049-group-anagrams) |
 | [3612-process-string-with-special-operations-i](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Prefix Sum
