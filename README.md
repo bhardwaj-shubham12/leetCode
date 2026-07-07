@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0146-lru-cache) |
+| [0304-range-sum-query-2d-immutable](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0981-time-based-key-value-store) |
 ## Binary Search Tree
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0525-contiguous-array) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1301-number-of-paths-with-max-score](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1301-number-of-paths-with-max-score) |
 ## Bucket Sort
 |  |
