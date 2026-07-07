@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0981-time-based-key-value-store) |
+| [1095-find-in-mountain-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1095-find-in-mountain-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1095-find-in-mountain-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1095-find-in-mountain-array) |
 | [1288-remove-covered-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0912-sort-an-array) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
