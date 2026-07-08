@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0721-accounts-merge) |
+| [0735-asteroid-collision](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0735-asteroid-collision) |
 | [2402-meeting-rooms-iii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2402-meeting-rooms-iii) |
 | [3612-process-string-with-special-operations-i](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3614-process-string-with-special-operations-ii) |
