@@ -36,21 +36,14 @@ class Solution {
 
         int left = 0;
         int right = 0;
-
-        while((left < nums.length) && (right < nums.length)){
-            while((right < nums.length) && (nums[right] - nums[left] <= maxDiff)){
-                //System.out.println("Merging "+ nums[left]+" and "+ nums[right]);
-                mergeNodes(left, right, parent, rank);
-                right++;
-            }
-            if(right < nums.length){
-                left++;
-                if(right < left){
-                    right = left;
-                }
+        //O(N)
+        for(int i=0;i<n-1;i++){
+            if((nums[i+1] - nums[i]) <= maxDiff){
+                mergeNodes(i, i+1, parent, rank);
             }
         }
 
+        // O(M)
         boolean[] ans = new boolean[queries.length];
         for(int i=0;i<queries.length;i++){
             ans[i] = (parent[queries[i][0]] == parent[queries[i][1]]) ? true: false;
