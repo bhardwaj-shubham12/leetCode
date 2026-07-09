@@ -36,17 +36,17 @@ class Solution {
 
         int left = 0;
         int right = 0;
-        //O(N)
+        //O(N. Alpha(N))
         for(int i=0;i<n-1;i++){
             if((nums[i+1] - nums[i]) <= maxDiff){
                 mergeNodes(i, i+1, parent, rank);
             }
         }
 
-        // O(M)
+        // O(M. Alpha(N))
         boolean[] ans = new boolean[queries.length];
         for(int i=0;i<queries.length;i++){
-            ans[i] = (parent[queries[i][0]] == parent[queries[i][1]]) ? true: false;
+            ans[i] = (findParent(queries[i][0], parent) == findParent(queries[i][1], parent)) ? true: false;
         }
 
         return ans;
