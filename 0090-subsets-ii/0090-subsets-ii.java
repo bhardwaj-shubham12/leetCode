@@ -16,9 +16,11 @@ class Solution {
                     temp.add(nums[j]);
                 }
             }
-            if(!listSet.contains(temp))
+            if(!listSet.contains(temp)){
                 ans.add(temp);
                 listSet.add(temp);
+            }
+
         }
 
         return ans;
