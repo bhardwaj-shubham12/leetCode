@@ -1,42 +1,53 @@
+import java.util.Arrays;
+
 class Solution {
-public boolean canPartitionKSubsets(int[] nums, int k) {
-		if(nums == null || nums.length == 0)
-			return false;
-		
-		int n = nums.length;
-		//result array
-		boolean dp[] = new boolean[1<<n];
-		int total[] = new int[1<<n];
-		dp[0] = true;
-		
-		int sum = 0;
-		for(int num : nums)
-			sum += num;
-		Arrays.sort(nums);
-		
-		if(sum%k != 0) 
-			return false;
-		sum /= k;
-		if(nums[n-1] > sum)
-			return false;
-		// Loop over power set
-		for(int i = 0;i < (1<<n);i++) {
-			if(dp[i]) {
-				// Loop over each element to find subset
-				for(int j = 0;j < n;j++) {
-					// set the jth bit 
-					int temp = i | (1 << j);
-					if(temp != i) {
-						// if total sum is less than target store in dp and total array
-						if(nums[j] <= (sum- (total[i]%sum))) {
-							dp[temp] = true;
-							total[temp] = nums[j] + total[i];
-						} else
-							break;
-					}
-				}
-			}
-		}
-		return dp[(1<<n) - 1];
-	}
+    public boolean canPartitionKSubsets(int[] nums, int k) {
+        int sum = 0;
+        for (int num : nums) sum += num;
+        
+        // Base checks
+        if (sum % k != 0 || k > nums.length) return false;
+        int target = sum / k;
+        
+        // Sort ascending, then we will iterate backwards to simulate descending order
+        Arrays.sort(nums);
+        int n = nums.length;
+        if (nums[n - 1] > target) return false; 
+        
+        // Track the current sum of each of the k subsets
+        int[] subsets = new int[k];
+        
+        // Start distributing elements from the largest (end of sorted array)
+        return backtrack(nums, n - 1, subsets, target);
+    }
+    
+    private boolean backtrack(int[] nums, int index, int[] subsets, int target) {
+        // All elements successfully placed
+        if (index < 0) return true;
+        
+        int currentNum = nums[index];
+        
+        for (int i = 0; i < subsets.length; i++) {
+            // Check if current element fits in the subset
+            if (subsets[i] + currentNum <= target) {
+                subsets[i] += currentNum;
+                
+                // Move to the next smaller element
+                if (backtrack(nums, index - 1, subsets, target)) {
+                    return true;
+                }
+                
+                // Backtrack
+                subsets[i] -= currentNum;
+            }
+            
+            // Optimization: If the subset is empty after backtracking, 
+            // breaking here avoids putting the current element into other empty subsets (which creates identical states).
+            if (subsets[i] == 0) {
+                break;
+            }
+        }
+        
+        return false;
+    }
 }
