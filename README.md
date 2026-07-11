@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0721-accounts-merge) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Counting Sort
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0743-network-delay-time) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Minimum Spanning Tree
 |  |
