@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0056-merge-intervals) |
 | [0090-subsets-ii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0090-subsets-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0045-jump-game-ii) |
 | [0152-maximum-product-subarray](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0322-coin-change) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0045-jump-game-ii) |
 | [0435-non-overlapping-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0846-hand-of-straights](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0846-hand-of-straights) |
 | [1833-maximum-ice-cream-bars](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1833-maximum-ice-cream-bars) |
