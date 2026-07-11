@@ -1,11 +1,19 @@
 class Solution {
-    private void dfsUtil(List<List<Integer>>graph, int vertex, boolean[] visited, List<Integer> temp){
+    private void dfsUtil(List<List<Integer>>graph, int vertex, boolean[] visited, List<Integer> temp, RetVal retVal){
         visited[vertex] = true;
         temp.add(vertex);
         for(int ele: graph.get(vertex)){
+            if(ele > vertex)
+                retVal.numEdge++;
             if(!visited[ele]){
-                dfsUtil(graph, ele, visited, temp);
+                dfsUtil(graph, ele, visited, temp, retVal);
             }
+        }
+    }
+    class RetVal{
+        int numEdge;
+        RetVal(int numEdge){
+            this.numEdge = numEdge;
         }
     }
     public int countCompleteComponents(int n, int[][] edges) {
@@ -18,6 +26,7 @@ class Solution {
 
         boolean[][] isEdgeConnect = new boolean[n][n];
 
+        //O(M)
         for(int i=0;i<edges.length;i++){
             graph.get(edges[i][0]).add(edges[i][1]);
             graph.get(edges[i][1]).add(edges[i][0]);
@@ -27,22 +36,18 @@ class Solution {
 
         List<Integer> temp;
         boolean allConnect = true;
+        int numEdge = 0;
+        RetVal retVal = new RetVal(0);
+        //O(N)
         for(int i=0;i<n;i++){
             if(!visited[i]){
                 temp = new ArrayList<>();
-                dfsUtil(graph, i, visited, temp);
-                allConnect = true;
-                for(int j=0;j<temp.size() - 1;j++){
-                    for(int k=j + 1; k< temp.size(); k++){
-                        if(!isEdgeConnect[temp.get(j)][temp.get(k)]){
-                            allConnect = false;
-                            break;
-                        }
-                    }
-                    if(!allConnect) break;
-                }
-                if(allConnect)
+                retVal.numEdge = 0;
+                dfsUtil(graph, i, visited, temp, retVal);
+                //System.out.println(temp.size() + ", " +retVal.numEdge);
+                if(retVal.numEdge == (((temp.size()) * (temp.size() -1 )) / 2)){
                     numComp++;
+                }
             }
         }
 
