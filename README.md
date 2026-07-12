@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0152-maximum-product-subarray) |
+| [0221-maximal-square](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0322-coin-change) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0045-jump-game-ii) |
 | [0152-maximum-product-subarray](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0152-maximum-product-subarray) |
+| [0221-maximal-square](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1301-number-of-paths-with-max-score](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1301-number-of-paths-with-max-score) |
 ## Bucket Sort
