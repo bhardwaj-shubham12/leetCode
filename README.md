@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1095-find-in-mountain-array) |
 | [1288-remove-covered-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1732-find-the-highest-altitude](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0846-hand-of-straights) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0981-time-based-key-value-store) |
+| [1331-rank-transform-of-an-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2402-meeting-rooms-iii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
