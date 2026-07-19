@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0045-jump-game-ii) |
 | [0435-non-overlapping-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0846-hand-of-straights](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0846-hand-of-straights) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0049-group-anagrams) |
 | [0721-accounts-merge](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0721-accounts-merge) |
 | [0981-time-based-key-value-store](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0981-time-based-key-value-store) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3612-process-string-with-special-operations-i](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0853-car-fleet](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Graph Theory
 |  |
 | ------- |
