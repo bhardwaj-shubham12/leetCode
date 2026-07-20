@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1095-find-in-mountain-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1095-find-in-mountain-array) |
+| [1260-shift-2d-grid](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1260-shift-2d-grid) |
 | [2402-meeting-rooms-iii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2402-meeting-rooms-iii) |
 | [3612-process-string-with-special-operations-i](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0221-maximal-square](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1260-shift-2d-grid](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1301-number-of-paths-with-max-score) |
 ## Bucket Sort
 |  |
