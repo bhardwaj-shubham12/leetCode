@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0853-car-fleet) |
+| [0877-stone-game](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0486-predict-the-winner) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0877-stone-game](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1840-maximum-building-height) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -311,4 +314,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
