@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1732-find-the-highest-altitude](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1563-stone-game-v) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Greedy
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1840-maximum-building-height) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
