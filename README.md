@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2402-meeting-rooms-iii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2402-meeting-rooms-iii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2402-meeting-rooms-iii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2402-meeting-rooms-iii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Counting Sort
 |  |
