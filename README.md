@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0045-jump-game-ii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0056-merge-intervals) |
 | [0090-subsets-ii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
