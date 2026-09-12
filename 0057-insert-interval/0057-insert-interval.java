@@ -8,7 +8,7 @@ class Solution {
         }
 
         List<int[]> intervalsRes = new ArrayList<>();
-        Arrays.sort(intervals, (a,b) -> Integer.compare(a[0], b[0]));
+        //Arrays.sort(intervals, (a,b) -> Integer.compare(a[0], b[0]));
 
         int curIndex = 0;
         int numInterval = intervals.length;
