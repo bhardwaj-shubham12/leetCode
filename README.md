@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0846-hand-of-straights) |
+| [0904-fruit-into-baskets](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0981-time-based-key-value-store) |
 | [1331-rank-transform-of-an-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -385,5 +387,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0904-fruit-into-baskets) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
