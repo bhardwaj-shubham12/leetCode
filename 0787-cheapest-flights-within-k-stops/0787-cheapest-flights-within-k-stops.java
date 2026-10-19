@@ -1,49 +1,41 @@
 class Solution {
     public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
-        // Build adjacency list: node -> [neighbor, price]
-        List<List<int[]>> adj = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            adj.add(new ArrayList<>());
-        }
-        for (int[] flight : flights) {
-            adj.get(flight[0]).add(new int[] {flight[1], flight[2]});
+        List<List<List<Integer>>> graph = new ArrayList<>();
+        for(int i=0;i<n;i++){
+            graph.add(new ArrayList<>());
         }
 
-        // minCost array to keep track of the cheapest price to reach each node
-        int[] minCost = new int[n];
-        Arrays.fill(minCost, Integer.MAX_VALUE);
-        minCost[src] = 0;
+        List<Integer> temp;
+        for(int i=0;i<flights.length;i++){
+            temp = new ArrayList<>();
+            temp.add(flights[i][1]);
+            temp.add(flights[i][2]);
+            graph.get(flights[i][0]).add(temp);
+        }
 
-        // Queue stores: [currentNode, currentCost]
-        Queue<int[]> queue = new LinkedList<>();
-        queue.offer(new int[] {src, 0});
-
+        Queue<int[]> q = new ArrayDeque<>();
+        q.add(new int[] {src, 0});
+        int[] distance = new int[n];
+        Arrays.fill(distance, Integer.MAX_VALUE);
+        distance[src] = 0;
+        
         int stops = 0;
-
-        // Process up to K stops (which means K + 1 levels of edges)
-        while (!queue.isEmpty() && stops <= k) {
-            int size = queue.size();
-            
-            // Iterate through all nodes at the current level
-            while (size-- > 0) {
-                int[] curr = queue.poll();
-                int node = curr[0];
-                int cost = curr[1];
-
-                for (int[] neighbor : adj.get(node)) {
-                    int nextNode = neighbor[0];
-                    int price = neighbor[1];
-
-                    // Only push to queue if this path is cheaper than the recorded minCost
-                    if (cost + price < minCost[nextNode]) {
-                        minCost[nextNode] = cost + price;
-                        queue.offer(new int[] {nextNode, minCost[nextNode]});
+        int size;
+        int[] topEle;
+        while(!q.isEmpty() && stops <= k){
+            size = q.size();
+            while(size > 0){
+                topEle = q.poll();
+                for(List<Integer> tempList: graph.get(topEle[0])){
+                    if(distance[tempList.get(0)] > topEle[1] + tempList.get(1)){
+                        distance[tempList.get(0)] = topEle[1] + tempList.get(1);
+                        q.add(new int[]{tempList.get(0), distance[tempList.get(0)]});
                     }
                 }
+                size--;
             }
             stops++;
         }
-
-        return minCost[dst] == Integer.MAX_VALUE ? -1 : minCost[dst];
+        return (distance[dst] == Integer.MAX_VALUE) ? -1: distance[dst]; 
     }
 }
