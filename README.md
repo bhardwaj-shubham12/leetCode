@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0981-time-based-key-value-store) |
 | [1095-find-in-mountain-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1095-find-in-mountain-array) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2402-meeting-rooms-iii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2402-meeting-rooms-iii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2402-meeting-rooms-iii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
 |  |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Hash Table
 |  |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1732-find-the-highest-altitude](https://github.com/bhardwaj-shubham12/leetCode/tree/master/1732-find-the-highest-altitude) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -395,4 +400,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/bhardwaj-shubham12/leetCode/tree/master/0904-fruit-into-baskets) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bhardwaj-shubham12/leetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/bhardwaj-shubham12/leetCode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 <!---LeetCode Topics End-->
