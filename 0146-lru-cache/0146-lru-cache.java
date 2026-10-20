@@ -1,92 +1,87 @@
 class LRUCache {
     class ListNode{
-        int key, val;
+        int key, value;
         ListNode left,right;
-        ListNode(){
-            key = -1;
-            val = -1;
-            this.left = null;
-            this.right = null;
-        }
-        ListNode(int key, int val){
+
+        ListNode(int key, int value){
             this.key = key;
-            this.val = val;
+            this.value = value;
             this.left = null;
             this.right = null;
         }
     }
-    int numNodes = 0;
-    int capacity = 0;
-    Map<Integer, ListNode> keyToNodeMap;
-    ListNode head;
-    ListNode tail;
-
-
-
+    Map<Integer, ListNode> keyMap;
+    ListNode head,tail;
+    int numNodes;
+    int capacity;
     public LRUCache(int capacity) {
-        this.numNodes = 0;
+        keyMap = new HashMap<>();
+        head = new ListNode(-1, -1);
+        tail = new ListNode(-1, -1);
+        head.right = tail;
+        tail.left = head;
+        numNodes = 0;
         this.capacity = capacity;
-        ListNode head = new ListNode();
-        ListNode tail = new ListNode();
-        this.keyToNodeMap = new HashMap<>();
-
-        this.head = new ListNode();
-        this.tail = new ListNode();
-
-        this.head.right = this.tail;
-        this.tail.left = this.head;
     }
+
+    void moveToFront(ListNode res){
+        ListNode leftNode,rightNode;
+
+        leftNode = res.left;
+        rightNode = res.right;
+
+        leftNode.right = rightNode;
+        rightNode.left = leftNode;
+
+        res.right = head.right;
+        head.right.left = res;
+        res.left = head;
+        head.right = res;
+    }
+    /*
+    void printList(){
+        ListNode temp = head;
+        temp = head.right;
+        while(temp != tail){
+            System.out.println(temp.key +": "+ temp.value);
+            temp = temp.right;
+        }
+        System.out.println();
+    }
+    */
     
-    void moveTempToFirst(ListNode temp, ListNode head){
-        ListNode prev = temp.left;
-        ListNode next = temp.right;
-
-        prev.right = next;
-        next.left  = prev;
-
-        temp.right = head.right;
-        head.right.left = temp;
-        temp.left = head;
-        head.right = temp;
-    }
-
     public int get(int key) {
-        ListNode temp = keyToNodeMap.getOrDefault(key, null);
-        
-        if(temp == null) return -1;
-        
-        moveTempToFirst(temp,head);
-       
-        return temp.val;       
+        if(!keyMap.containsKey(key)) return -1;
+        ListNode res = keyMap.get(key);
+        moveToFront(res);
+        //printList();
+        return res.value;
     }
     
     public void put(int key, int value) {
-        ListNode temp = keyToNodeMap.getOrDefault(key, null);
-
-        if(temp != null){
-            temp.val = value;
-            moveTempToFirst(temp,head);
-           
+        if(keyMap.containsKey(key)){
+            ListNode res = keyMap.get(key);
+            moveToFront(res);
+            res.value = value;
             return;
         }
-
-        temp = new ListNode(key,value);
-        temp.right = head.right;
-        temp.left = head;
-        head.right.left = temp;
-        head.right = temp;
-        keyToNodeMap.put(key, temp); 
-
+        ListNode newNode = new ListNode(key,value);
+        keyMap.put(key, newNode);
+        //head -> <- newNode -> <- head.right
+        newNode.right = head.right;
+        head.right.left = newNode;
+        newNode.left = head;
+        head.right = newNode;
         numNodes++;
 
         if(numNodes > capacity){
             ListNode last = tail.left;
             last.left.right = tail;
             tail.left = last.left;
-            keyToNodeMap.remove(last.key);
-            numNodes --;
+            numNodes--;
+            keyMap.remove(last.key);
         }
-      
+        //printList();
     }
 }
 
